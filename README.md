@@ -7,5 +7,3 @@ One way to store and manipulate integers of unlimited size is by using a linked 
  
 To add two numbers, we simply add the corresponding digit in the same location in their respective lists with the carry from the previous addition.  Write a function for adding two numbers (in the form of linked list) that will take two linked lists as input and returns new linked list which is the result of sum.   (assume add is a friend function of LinkedList class.)
 
-
-LinkedList add(LinkedList l1, LinkedList l2)
